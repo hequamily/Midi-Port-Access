@@ -16,7 +16,7 @@ import pygame
 import rtmidi
 
 # MIDI settings
-MIDI_PORT_NAME = "-ENTER NAME OF MIDI DEVICE-"
+MIDI_PORT_NAME = "--ENTER NAME OF MIDI DEVICE--"
 
 
 
